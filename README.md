@@ -1,3 +1,4 @@
+<img width="1919" height="872" alt="Screenshot 2025-10-29 005826" src="https://github.com/user-attachments/assets/15fe8a4c-fc37-4a2a-b8f0-eab160e0f372" />
 🧠 AI Chatbot using LangGraph & LangChain
 
 This project is a multi-tool conversational AI chatbot built using LangGraph and LangChain, capable of performing web searches, fetching stock data, and handling basic arithmetic operations — all in a single interactive workflow.
@@ -28,8 +29,5 @@ Stock Tool        	Retrieves stock prices using APIs like Yahoo Finance or Alpha
 Calculator Tool    	Handles user arithmetic queries directly.
 OpenAI API        	Backend LLM used to interpret user intent.
 
-<img width="1919" height="872" alt="Screenshot 2025-10-29 005826" src="https://github.com/user-attachments/assets/15fe8a4c-fc37-4a2a-b8f0-eab160e0f372" />
 
-Stock Tool	Retrieves stock prices using APIs like Yahoo Finance or Alpha Vantage.
-Calculator Tool	Handles user arithmetic queries directly.
-OpenAI / Hugging Face API	Backend LLM used to interpret user intent.
+
